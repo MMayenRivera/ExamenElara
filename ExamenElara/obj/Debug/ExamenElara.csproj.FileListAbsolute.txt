@@ -1,0 +1,6 @@
+C:\Users\digis\Documents\MisaelMayenRivera\Examen\ExamenElara\ExamenElara\ExamenElara\bin\Debug\ExamenElara.exe.config
+C:\Users\digis\Documents\MisaelMayenRivera\Examen\ExamenElara\ExamenElara\ExamenElara\bin\Debug\ExamenElara.exe
+C:\Users\digis\Documents\MisaelMayenRivera\Examen\ExamenElara\ExamenElara\ExamenElara\bin\Debug\ExamenElara.pdb
+C:\Users\digis\Documents\MisaelMayenRivera\Examen\ExamenElara\ExamenElara\ExamenElara\obj\Debug\ExamenElara.exe
+C:\Users\digis\Documents\MisaelMayenRivera\Examen\ExamenElara\ExamenElara\ExamenElara\obj\Debug\ExamenElara.pdb
+C:\Users\digis\Documents\MisaelMayenRivera\Examen\ExamenElara\ExamenElara\ExamenElara\obj\Debug\ExamenElara.csprojResolveAssemblyReference.cache
